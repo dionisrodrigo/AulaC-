@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+\\Mac\Home\Documents\Estudo\C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
